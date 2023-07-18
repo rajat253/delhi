@@ -9,3 +9,4 @@ guru
 guri
 rajat
 aman
+ringus
